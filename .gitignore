@@ -1,2 +1,4 @@
 .venv
 .vscode
+typings
+.ipynb_checkpoints
